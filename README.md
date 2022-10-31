@@ -1,4 +1,4 @@
-# Ceasar_Cipher
+# Caesar_Cipher
 
 This is a simple script to be used to encrypt plaintext using the ceasar cipher.
 
